@@ -6,4 +6,4 @@
 - GitHub Pages
 
 
-https://USERNAME.github.io/cv-portfolio/https://studentalexey.github.io/cv-portfolio/
+https://studentalexey.github.io/cv-portfolio/
